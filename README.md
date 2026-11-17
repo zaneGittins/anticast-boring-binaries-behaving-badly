@@ -13,6 +13,7 @@
 * [CelesTLSH](https://github.com/Magonia-Research/CelesTLSH-Hashes/)
 * [NoDoze Research Paper](https://www.ndss-symposium.org/ndss-paper/nodoze-combatting-threat-alert-fatigue-with-automated-provenance-triage/)
 * [Canary Tokens](https://canarytokens.org/nest/)
+* [RITA](https://github.com/activecm/rita)
 
 ### Velociraptor Artifacts
 
